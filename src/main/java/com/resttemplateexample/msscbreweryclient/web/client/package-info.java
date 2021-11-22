@@ -1,0 +1,1 @@
+package com.resttemplateexample.msscbreweryclient.web.client;
